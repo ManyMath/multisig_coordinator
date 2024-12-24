@@ -8,3 +8,5 @@ pubspec.lock
 
 # IntelliJ metadata.
 .idea/
+# Build files (secp256k1 source and binary for coinlib).
+build/

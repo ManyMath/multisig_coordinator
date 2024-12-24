@@ -1,8 +1,8 @@
-/// Support for doing something awesome.
+/// `multisig_coordinator`.
 ///
-/// More dartdocs go here.
-library;
+/// A Dart package for coordinating the creation of shared multisignature
+/// Hierarchical Deterministic (HD) wallets for BIP48 implementations.
+library multisig_coordinator;
 
-export 'src/multisig_coordinator_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/coordinator.dart';
+export 'src/models.dart';

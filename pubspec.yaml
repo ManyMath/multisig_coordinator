@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   coinlib: ^2.2.0
-  bip48: ^0.0.2
+  bip48: ^0.0.3
 
 dev_dependencies:
   lints: ^4.0.0
