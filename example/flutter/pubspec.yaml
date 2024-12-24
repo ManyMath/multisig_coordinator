@@ -1,0 +1,23 @@
+name: flutter_multisig_coordinator_example
+description: "A Flutter flutter_multisig_coordinator example."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  bip48: ^0.0.3
+  multisig_coordinator: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
