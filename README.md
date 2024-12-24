@@ -5,7 +5,7 @@ Multi-Sig Wallets".
 
 ## Getting started
 ```bash
-git clone https://github.com/ManyMath/multisig_coordinator
+git clone https://github.com/cypherstack/multisig_coordinator
 cd bip48
 dart pub get
 dart run coinlib:build_linux

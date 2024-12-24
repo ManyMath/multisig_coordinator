@@ -1,7 +1,7 @@
 name: multisig_coordinator
 description: A coordinator for creating shared multisignature Hierarchical Deterministic (HD) wallets according to BIP-0048.
-version: 0.0.1
-repository: https://github.com/ManyMath/multisig_coordinator
+version: 0.0.2
+repository: https://github.com/cypherstack/multisig_coordinator
 
 environment:
   sdk: ^3.5.4
