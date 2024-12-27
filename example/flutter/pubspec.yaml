@@ -13,6 +13,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   bip48: ^0.0.3
   multisig_coordinator: ^0.0.1
+  ndef: ^0.3.4
+  nfc_manager: ^3.5.0
 
 dev_dependencies:
   flutter_test:

@@ -34,7 +34,7 @@ class _MultisigSetupFormState extends State<MultisigSetupForm> {
                 labelText: 'Script Type',
                 border: OutlineInputBorder(),
               ),
-              items: [
+              items: const [
                 DropdownMenuItem(
                   value: Bip48ScriptType.p2shMultisig,
                   child: Text('Legacy P2SH'),
